@@ -1,1 +1,2 @@
-python3 -m zira
+python3 -m medo
+
